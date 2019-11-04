@@ -1,0 +1,15 @@
+header {
+  display: flex;
+  justify-content: flex-start;
+  h1 {
+    font-weight: bold;
+    width: 50vw;
+    font-size: 1.5em;
+    text-align: left;
+  }
+  ul {
+    display: flex;
+    width: 50vw;
+    justify-content: space-around;
+  }
+}
