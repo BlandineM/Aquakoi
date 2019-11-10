@@ -11,6 +11,10 @@
   font: inherit;
   vertical-align: baseline;
   font-family: "Roboto black";
+  --bleu:#2b2e4a;
+  --rouge:#e84545;
+  --bordeau: #903749;
+  --prune:#53354a;
 }
 /* HTML5 display-role reset for older browsers */
 article,
