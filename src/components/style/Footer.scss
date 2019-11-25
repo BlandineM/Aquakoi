@@ -1,0 +1,22 @@
+.footer {
+    display: flex;
+    justify-content: flex-start;
+    background-color:var(--bleu);
+    color: white;
+
+    ul {
+        display: flex;
+        width: 60vw;
+        justify-content: space-around;
+        font-size: 1.5em;
+        margin: auto;
+        
+      }
+      li{
+        width:10vW;
+        &:hover{
+          font-weight: 800;
+          color: var(--bordeau);
+        }
+      }
+}
